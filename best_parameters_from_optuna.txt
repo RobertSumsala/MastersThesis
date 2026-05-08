@@ -1,0 +1,7 @@
+num_layers: 4
+num_epochs: 14
+batch_norm: False
+kernel_size: 5
+base_filters: 32
+img_size: 256
+learning_rate: 0.0002035152527008955
